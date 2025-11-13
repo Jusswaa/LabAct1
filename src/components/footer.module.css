@@ -1,0 +1,13 @@
+.footer {
+  width: 100%; /* Full width */
+  background-color: var(--primary); /* Adjust to your theme */
+  text-align: center;
+  padding: 1rem 0;
+  box-sizing: border-box;
+}
+
+.footer p {
+  margin: 0;
+  color: var(--text-light); /* Adjust to your theme */
+  font-size: 0.9rem;
+}

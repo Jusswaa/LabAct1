@@ -1,0 +1,18 @@
+.section {
+  text-align: center;
+}
+
+.skillsGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.skillItem {
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.05);
+  font-size: 1rem;
+}

@@ -1,0 +1,13 @@
+.section {
+  text-align: center;
+}
+
+.section a {
+  color: #38bdf8;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.section a:hover {
+  text-decoration: underline;
+}
