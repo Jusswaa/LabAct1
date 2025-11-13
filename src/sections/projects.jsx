@@ -6,6 +6,7 @@ const Projects = () => {
   const projects = [
     { name: "Portfolio Website", desc: "A responsive React portfolio." },
     { name: "Top-Down Endless Game", desc: "Endless top-down game " },
+    { name: "2D Platformer Game", desc: "Classic 2D platformer game." }
   ];
 
   return (
