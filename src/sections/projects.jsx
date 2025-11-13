@@ -5,8 +5,7 @@ import styles from "./projects.module.css";
 const Projects = () => {
   const projects = [
     { name: "Portfolio Website", desc: "A responsive React portfolio." },
-    { name: "Task Manager", desc: "A full-stack task app using Node.js." },
-    { name: "Weather App", desc: "Shows live weather via OpenWeather API." },
+    { name: "Top-Down Endless Game", desc: "Endless top-down game " },
   ];
 
   return (
