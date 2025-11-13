@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/LabAct1/' 
+  base: '/' 
 })
